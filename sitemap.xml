@@ -6,40 +6,40 @@
     
     <!-- Главная страница -->
     <url>
-        <loc>https://aketonchick.github.io/</loc>
-        <lastmod>2025-12-30</lastmod>
+        <loc>https://aketonchick.github.io/seo_lab1/</loc>
+        <lastmod>2023-10-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <!-- Страница "Виды чая" -->
     <url>
-        <loc>https://aketonchick.github.io/#types</loc>
-        <lastmod>2025-12-30</lastmod>
+        <loc>https://aketonchick.github.io/seo_lab1/#types</loc>
+        <lastmod>2023-10-10</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <!-- Страница "Польза чая" -->
     <url>
-        <loc>https://aketonchick.github.io/#benefits</loc>
-        <lastmod>2025-12-30</lastmod>
+        <loc>https://aketonchick.github.io/seo_lab1/#benefits</loc>
+        <lastmod>2023-10-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <!-- Страница "Заваривание чая" -->
     <url>
-        <loc>https://aketonchick.github.io/#brewing</loc>
-        <lastmod>2025-12-30</lastmod>
+        <loc>https://aketonchick.github.io/seo_lab1/#brewing</loc>
+        <lastmod>2023-09-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <!-- Страница "Контакты" -->
     <url>
-        <loc>https://aketonchick.github.io/#contact</loc>
-        <lastmod>2025-12-30</lastmod>
+        <loc>https://aketonchick.github.io/seo_lab1/#contact</loc>
+        <lastmod>2023-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
